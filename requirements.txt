@@ -1,9 +1,9 @@
 Dependencies :
 
-1. Roboflow (roboflow) - Versi 1.1.30
-2. PyTorch (torch) - Versi 2.3.1
+1. Roboflow (roboflow) - Versi 1.2.1
+2. PyTorch (torch) - Versi 2.5
 3. Supervision (supervision) - Versi 0.21.0
 4. rfdetr - Versi 1.0.1
 5. NumPy (numpy) - Versi 2.0.0
 6. Pillow (PIL) - Versi 10.4.0
-7. tqdm - Versi 4.66.4
+7. tqdm - Versi 4.67.1
